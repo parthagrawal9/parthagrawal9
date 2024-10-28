@@ -1,7 +1,7 @@
 - 👋  Hi, I’m Parth!
 - 🚀  I am a Full Stack Engineer.
 - 👀  I like listening to interesting arguements.
-- 🌱  Learning React & Kotlin.
+- 🌱  React & GoLang Developer.
 - 📫  Reach me out on [Email](mailto:agrawal.parth9@gmail.com) OR [Linkedin](https://www.linkedin.com/in/parthcodes/)
 
 <!---

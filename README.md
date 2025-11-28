@@ -57,18 +57,3 @@ I am an experienced **Senior Full Stack Engineer** with extensive hands-on exper
 **Full Stack Engineer @ Freelance**
 * *Mar 2018 - Oct 2019*
 * Developed full-stack applications using MEAN Stack and Fleet Management systems.
-
----
-
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parthagrawal9&show_icons=true&theme=radical" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthagrawal9&layout=compact&theme=radical" height="180" alt="languages graph" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=parthagrawal9&theme=radical" alt="streak graph" />
-</div>

@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there, I'm Parth Agrawal! 👋</h1>
   <h3>Senior Full Stack Engineer | React • Go • Kotlin • Python</h3>
-  <p>Berlin 🇩🇪</p>
+  <p>📍 Berlin 🇩🇪</p>
 
   <a href="https://www.linkedin.com/in/parthcodes">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />

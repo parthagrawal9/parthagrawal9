@@ -40,11 +40,12 @@ I am an experienced **Senior Full Stack Engineer** with extensive hands-on exper
 
 **Senior Full Stack Engineer @ Staffbase** (Berlin)
 * *Dec 2021 - Present*
-* Focusing on full-stack development using React and Go.
 
-**Full Stack Engineer Consultant @ Analytics Saves at Work**
-* *Oct 2019 - Present* (Remote)
+**Senior Full Stack Engineer @ Analytics Saves at Work**
+* *Oct 2019 - Nov 2021*
+
+**Full Stack Engineer @ M20Zero**
+* *Mar 2019 - Oct 2019*
 
 **Full Stack Engineer @ Freelance**
-* *Mar 2018 - Oct 2019*
-* Developed full-stack applications using MEAN Stack and Fleet Management systems.
+* *Mar 2016 - Present*

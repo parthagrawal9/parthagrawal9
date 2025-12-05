@@ -36,23 +36,14 @@ I am an experienced **Senior Full Stack Engineer** with extensive hands-on exper
 
 ---
 
-### 📜 Certifications & Honors
-
-* 🏆 **Microsoft Certified & Red Hat Certified**
-* ☁️ **AWS Fundamentals: Going Cloud-Native**
-* ☁️ **Google Cloud Platform Fundamentals: Core Infrastructure**
-* 🔐 **Certified Cyber Security Expert**
-
----
-
 ### 💼 Professional Experience
 
 **Senior Full Stack Engineer @ Staffbase** (Berlin)
 * *Dec 2021 - Present*
 * Focusing on full-stack development using React and Go.
 
-**Full Stack Engineer @ Analytics Saves at Work**
-* *Oct 2021 - Present* (Remote)
+**Full Stack Engineer Consultant @ Analytics Saves at Work**
+* *Oct 2019 - Present* (Remote)
 
 **Full Stack Engineer @ Freelance**
 * *Mar 2018 - Oct 2019*
